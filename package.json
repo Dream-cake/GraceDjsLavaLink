@@ -1,6 +1,6 @@
 {
   "name": "gracedjslavalink",
-  "version": "2.2.3",
+  "version": "2.2.4",
   "description": "A discord.js lavalink client created by MrJacz edited to work with Grace",
   "main": "src/index.js",
   "types": "typings/index.d.ts",

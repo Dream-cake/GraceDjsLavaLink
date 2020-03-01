@@ -2,7 +2,7 @@
 A lavalink client for Discord.js, created by mrjacz, edited to work with Grace!
 
 ## Documentation (NEW)
-[**mrjacz.github.io/discord.js-lavalink**](https://mrjacz.github.io/discord.js-lavalink/)
+[**dream-cake.github.io/GraceDjsLavaLink**](https://dream-cake.github.io/GraceDjsLavaLink/)
 
 ## Documentation (OLD)
 [**mrjacz.github.io/discord.js-lavalink**](https://mrjacz.github.io/discord.js-lavalink/)
