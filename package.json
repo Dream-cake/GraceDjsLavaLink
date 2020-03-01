@@ -1,5 +1,5 @@
 {
-  "name": "GraceDjsLavaLink",
+  "name": "gracedjslavalink",
   "version": "2.2.3",
   "description": "A discord.js lavalink client created by MrJacz edited to work with Grace",
   "main": "src/index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MrJacz/GraceDjsLavaLink"
+    "url": "git+https://github.com/dream-cake/GraceDjsLavaLink"
   },
   "keywords": [
     "bot",
@@ -26,9 +26,9 @@
   "author": "Jacz",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MrJacz/GraceDjsLavaLink"
+    "url": "https://github.com/dream-cake/GraceDjsLavaLink"
   },
-  "homepage": "https://github.com/MrJacz/GraceDjsLavaLink#readme",
+  "homepage": "https://github.com/dream-cake/GraceDjsLavaLink#readme",
   "devDependencies": {
     "@types/node": "^12.0.12",
     "@types/ws": "^6.0.1",
