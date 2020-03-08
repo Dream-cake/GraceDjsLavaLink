@@ -15,7 +15,7 @@ class LavalinkNode extends EventEmitter {
      * @property {number|string} [port=2333] Lavalink port
      * @property {string} [address] Lavalink address
      * @property {string} [region] Lavalink region
-     * * @property {string} [type] Lavalink type
+     * @property {string} [type] Lavalink type
      * @property {string} [password="youshallnotpass"] Lavalink password
      * @property {number} [reconnectInterval=5000] Reconnectinterval
 	 */
