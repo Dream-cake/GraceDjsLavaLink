@@ -70,6 +70,7 @@ declare module "GraceDjsLavaLink" {
         public port?: number | string;
         public address?: string;
         public region?: string;
+        public type?: string;
         public password?: string;
         public ready: boolean;
         public ws?: WebSocket;
@@ -119,6 +120,7 @@ declare module "GraceDjsLavaLink" {
         port?: number | string;
         address?: string;
         region?: string;
+        type?: string;
         password?: string;
         reconnectInterval?: number;
     };
